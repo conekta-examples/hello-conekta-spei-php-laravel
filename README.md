@@ -1,7 +1,7 @@
-Conekta OXXO Laravel
+Conekta SPEI Laravel
 ===============
 
-Simple Conekta OXXO Laravel Integration with Conekta Api.
+Conekta SPEI Laravel Integration with Conekta Api.
 
 ### How to use
 
