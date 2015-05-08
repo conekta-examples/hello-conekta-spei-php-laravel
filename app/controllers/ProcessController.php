@@ -15,8 +15,8 @@ class ProcessController extends \BaseController {
             "currency" => "MXN",
             "description" => "Example of OXXO Payment",
             "reference_id"=> "orden_de_id_interno",
-            'cash'=>array(
-              'type'=>'oxxo'
+            "bank"=>array(
+              "type"=>"spei"
               )
             ));
         } catch (Conekta_Error $e) {
